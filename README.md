@@ -266,10 +266,5 @@ ECommerce/
 
 ## 🎬 Demo
 
-> 📹 Watch the full Postman walkthrough here: **[Demo Video Link]**
+> 📹 Watch the full Postman walkthrough here: **[Demo Video Link](https://youtu.be/rV4vZW1iHFs)**
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
